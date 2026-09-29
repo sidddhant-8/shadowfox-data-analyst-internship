@@ -1,4 +1,4 @@
-# ShadowFox Data Analyst Internship — [Your Name]
+# ShadowFox Data Analyst Internship — Siddhant Lanjewar
 
 Three progressive levels of analysis on the **Global Superstore** dataset (Beginner,
 Intermediate) and the **IBM HR Analytics** dataset (Advanced), built with Excel, Python,
