@@ -1,6 +1,6 @@
 # Global Superstore — Customer & Revenue Analysis
 ### ShadowFox Data Analyst Internship — Intermediate Level
-**Prepared by:** [Your Name]
+**Prepared by:** Siddhant Lanjewar
 **Dataset:** Global Superstore | 51,290 order lines | 2011–2014 | 147 countries | 1,590 customers
 
 ---
